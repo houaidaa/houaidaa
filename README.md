@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm houaida karoui</h1>
-<h3 align="center">I'm a Junior Data Scientist.</h3>
+<h3 align="center">I'm a Junior Data Scientist / Analyst.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.blog/wp-content/uploads/2019/03/engineering-social.png?fit=1201%2C630">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://houaidakaroui.webipie.me/](https://houaidakaroui.webipie.me/)
 
-- 📫 How to reach me **houaidafatma.karoui@esprit.tn**
+- 📫 How to reach me **fatmahouaida.karoui@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
